@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI FAQ Chatbot</title>
+    <link rel="stylesheet" href="../static/style.css">
+
+</head>
+<body>
+    <div class="chat-container">
+            <div class="chat-header">
+            <h1>AI FAQ Chatbot Assistant</h1>
+            <p>Ask me anything about the chatbot and how to use it!</p>
+        </div>
+        
+        <div class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                <div class="message-content">
+                    <p>Hello! I'm your AI FAQ assistant. Ask me questions about the chatbot, data privacy, usage tips, and more!</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="chat-input-container">
+            <input 
+                type="text" 
+                id="userInput" 
+                class="chat-input" 
+                placeholder="Type your question here..."
+                autocomplete="off"
+            >
+            <button id="sendButton" class="send-button">Send</button>
+        </div>
+        <div class="confidence-display" id="confidenceDisplay"></div>
+    </div>    
+    <script src="../static/script.js"></script>
+</body>
+</html>

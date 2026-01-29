@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "question": "What is the purpose of this chatbot?",
+      "answer": "This chatbot is designed to answer frequently asked questions and help users find information quickly."
+    },
+    {
+      "question": "How do I start using the chatbot?",
+      "answer": "You can start by typing your question in the chat box and pressing Enter. The bot will try to provide the most relevant answer."
+    },
+    {
+      "question": "Is my data safe while using this chatbot?",
+      "answer": "Yes, this chatbot does not store personal data permanently. All interactions are temporary and used only to generate responses."
+    },
+    {
+      "question": "What kind of questions can I ask?",
+      "answer": "You can ask general questions related to the topic or product for which the chatbot has FAQs. For unrelated questions, the bot may not have an answer."
+    },
+    {
+      "question": "How accurate are the chatbot's answers?",
+      "answer": "The answers are based on the stored FAQ dataset. They are accurate for the provided questions but may not cover all possible scenarios."
+    },
+    {
+      "question": "Can I ask multiple questions in a row?",
+      "answer": "Yes, you can type multiple questions one after another. The chatbot will try to answer each question individually."
+    },
+    {
+      "question": "Does the chatbot work on mobile devices?",
+      "answer": "Yes, the chatbot interface is web-based and can be accessed from desktop, tablet, or mobile devices."
+    },
+    {
+      "question": "What should I do if the chatbot does not understand my question?",
+      "answer": "Try rephrasing your question in simpler words or check the FAQ list for similar questions."
+    },
+    {
+      "question": "Can I see a list of all FAQs?",
+      "answer": "Currently, the chatbot shows answers based on your question. You may ask it to provide a full FAQ list if programmed to do so."
+    },
+    {
+      "question": "How do I provide feedback on the chatbot?",
+      "answer": "Feedback can be sent through the feedback option in the chat interface or via email to the project administrator."
+    },
+    {
+      "question": "Can I use this chatbot for learning purposes?",
+      "answer": "Yes, this chatbot can be used to practice asking questions, learn basic AI concepts, or explore FAQ automation."
+    },
+    {
+      "question": "Is an internet connection required to use the chatbot?",
+      "answer": "Yes, a working internet connection is required to communicate with the backend server and retrieve answers."
+    },
+    {
+      "question": "How frequently is the FAQ data updated?",
+      "answer": "The FAQ data can be updated manually by the admin whenever new questions and answers are added."
+    },
+    {
+      "question": "Can I integrate this chatbot into my website?",
+      "answer": "Yes, the chatbot can be integrated into other websites by embedding the frontend code and connecting it to the backend server."
+    },
+    {
+      "question": "Who can I contact for technical support?",
+      "answer": "For technical support, contact the project supervisor or the IT support team listed in the project documentation."
+    }
+  ]
+}
